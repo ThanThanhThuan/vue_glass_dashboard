@@ -1,7 +1,7 @@
 # Vue Dashboard Interactive
 View live at: https://thanthanhthuan.github.io/vue_glass_dashboard/
 
-Click Admin Billing to add/ edit/ delete billing records
+Click Billing Admin to add/ edit/ delete billing records
 
 See live Billing History at Settings -> Billing 
 
