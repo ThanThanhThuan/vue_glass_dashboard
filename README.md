@@ -7,7 +7,7 @@ See live Billing History at Settings -> Billing
 
 <img width="1863" height="1056" alt="image" src="https://github.com/user-attachments/assets/8ed8665a-caa1-469c-bbeb-b17f2655fc5a" />
 
-This project is a high-performance 3D Glassmorphism Admin Dashboard migrated from a static HTML template into a modern, full-stack Vue 3 SPA (Single Page Application).
+This project is a high-performance 3D Glassmorphism Admin Dashboard migrated from a static HTML template (https://templatemo.com/tm-607-glass-admin) into a modern, full-stack Vue 3 SPA (Single Page Application).
 Below is a summary of the project architecture, features, and technical stack.
 
 🚀 1. Technical Stack
